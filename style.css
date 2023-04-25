@@ -1,0 +1,29 @@
+/*página de estilização do site da barbearia*/
+
+body {
+	background: #CDAF95;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+#dupla {
+	text-align: right;
+	color: white;
+}
+
+#missao {
+	font-size: 20px
+}
+
+em strong {
+	color: white;
+}
+
+img {
+	width: 100%
+}
